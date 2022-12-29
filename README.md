@@ -23,10 +23,17 @@ Ads Web App
   - `php artisan serve`
 - Navigate to 'localhost:8000' and see application is running
 
+## Api
+- http://127.0.0.1:8000/api/get-adspost
+
 ## Notes
 - for daily remainder email please sure that you make the configration of email sender in .env file before test
 
 - command for run schedule : php artisan schedule:run
+
+- email:admin1@example.com
+- password:password
+
 
    
 
